@@ -2,7 +2,7 @@
 
 <img width="1672" height="941" alt="ChatGPT 图像 2026年10月21日 19_34_04" src="https://github.com/user-attachments/assets/8d3f5a39-d5cb-44ed-a271-168d09ccbd77" />
 安装包放到界面右侧的release中
-也可以在https://lune.website/网站中点击下载
+也可以在https://lune.website/ 网站中点击下载
 Focus Pad v2 Windows installer releases
 <img width="2237" height="1346" alt="image" src="https://github.com/user-attachments/assets/1b65da5d-6958-4395-a159-fd65bd6d42ae" />
 
